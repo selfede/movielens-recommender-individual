@@ -1,0 +1,1 @@
+https://selfede-movielens-recommender-individual-appapp-rek8si.streamlit.app
