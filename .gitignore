@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+pptx_build/node_modules/
+pptx_build/package-lock.json
+~$*
+*.pdf
+example from prof/
